@@ -21,4 +21,4 @@ Others have taken ACE and extended it, in particular:
 More recently I have had some fun, in collaboration with Cursor, reimagining ACE in a web browser context. The first such experiment is [ACEBasicJS](https://github.com/dbenn/ACEBasicJS) in which I created a plan, initially with the Claude chat app (not Claude Code). Cursor was provide with this, a link to the ACE source code ([vidarh's](https://github.com/vidarh/ACE)), the original [documentation](https://dbenn.github.io/docs/ace.html) I wrote for ACE. This is an active project as I write this in September 2026.
 
 ## See Also
-* (ACE BASIC category)[https://strangequark.me/category/programming/ace-basic/] in my blog.
+* [ACE BASIC category](https://strangequark.me/category/programming/ace-basic/) in my blog.
