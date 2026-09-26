@@ -1,5 +1,7 @@
 # What is ACE?
 
+![ACE logo](https://dbenn.github.io/images/ace.gif)
+
 ## Overview
 * AmigaBASIC Compiler with Extras?
 * A Creative Environment?
